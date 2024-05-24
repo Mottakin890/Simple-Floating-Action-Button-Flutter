@@ -1,6 +1,6 @@
 # floating_action_button
 
-A new Flutter project.
+A Default Floating Action Button
 
 ## Getting Started
 
